@@ -1,2 +1,2 @@
 # AFAP-001
-空戦AI
+From The Depths におけるティルトローター機用空戦AI
